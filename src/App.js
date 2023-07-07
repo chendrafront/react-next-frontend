@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          react-next-frontend
+          react-next-frontend 230707-1007
         </p>
       </header>
     </div>
